@@ -1,0 +1,24 @@
+[
+    {
+      "id": "1",
+      "image":"nature1.jpg",
+      "title": "Exploring the Enchanting Forest",
+      "content": "Let's Discover the magic of the ancient forest, with it's towering trees and hidden secrets.",
+      "date": "2023-08-26"
+    },
+    {
+      "id": "2",
+      "image":"/nature3.jpg",
+      "title": "Captivating Sunsets by the Shore",
+      "content": "Witness the breathtaking beauty of sunsets as they paint the sky in vibrant hues by the tranquil ocean.",
+      "date": "2023-08-27"
+    },
+    {
+      "id": "3",
+      "image":"nature2.jpg",
+      "title": "Conquering Majestic Mountains",
+      "content": "Embark on a journey to conquer towering mountains, where every step leads to new heights and breathtaking vistas.",
+      "date": "2023-08-28"
+    }
+  ]
+  
